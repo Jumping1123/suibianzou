@@ -1,0 +1,22 @@
+//
+//  PlayCardHeaderFile.pch
+//  随便走
+//
+//  Created by num:369 on 15/6/16.
+//  Copyright (c) 2015年 jf. All rights reserved.
+//
+
+#ifndef ____PlayCardHeaderFile_pch
+#define ____PlayCardHeaderFile_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreLocation/CoreLocation.h>
+#import <CoreMotion/CoreMotion.h>
+#import "UIView+SZ.h"
+
+
+#define kScreenSize [UIScreen mainScreen].bounds.size
+
+
+#endif
